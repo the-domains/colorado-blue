@@ -6,10 +6,10 @@ color:
     - '#5860A8'
     - '#F8F000'
     - '#F8F878'
-  brandStrength: 0.796967
-  lightness: 0.531551
-  rhythmicContrast: 0.243961
-  saturation: 0.653079
+  brandStrength: 0.9009
+  lightness: 0.34009
+  rhythmicContrast: 0.558558
+  saturation: 0.746621
 cta: {}
 layout_spectrum: 1
 name: Colorado Blue
