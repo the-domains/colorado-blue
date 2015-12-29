@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#9898C8'
+    - '#283090'
+    - '#5860A8'
+    - '#F8F000'
+    - '#F8F878'
+  brandStrength: 0.796967
+  lightness: 0.531551
+  rhythmicContrast: 0.243961
+  saturation: 0.653079
+cta: {}
+layout_spectrum: 1
+name: Colorado Blue
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.261261
